@@ -1,68 +1,67 @@
-# Hi 👋, I'm Tushika Garg
-
-🎓 B.E. Computer Science & Business Systems @ Thapar Institute of Engineering & Technology  
-📊 CGPA: 9.92/10  
+<h1 align="center">Hi 👋, I'm Tushika Garg</h1>
+<h3 align="center">Aspiring ML Engineer | NLP | DSA | Competitive Programming</h3>
 
 ---
 
 ## 🚀 About Me
-
-Aspiring Software Engineer with strong interests in **Machine Learning, NLP, and Competitive Programming**.  
-I combine **data-driven problem solving** with **algorithmic thinking** to build efficient and practical solutions.
-
-- 🤖 Building ML & NLP projects  
-- 🧠 Practicing Data Structures & Algorithms  
-- 📊 Exploring real-world datasets and model evaluation  
+- 🎓 B.E. Computer Science & Business Systems @ Thapar Institute of Engineering and Technology  
+- 📊 CGPA: **9.92/10**  
+- 🤖 Passionate about **Machine Learning & NLP**  
+- 🧠 Strong in **Data Structures & Algorithms**  
+- 📈 Love building **data-driven solutions with real-world impact**
 
 ---
 
 ## 💼 Projects
 
-### 🔹 SentinelLabel: Semantic Label Noise Detection for NLP
-- Built a data auditing pipeline for a **14K+ tweet dataset**
+### 🔹 SentinelLabel — Semantic Label Noise Detection (NLP)
+- Built pipeline for **14K+ tweet dataset**
 - Used **SentenceTransformers + UMAP + HDBSCAN**
-- Added **cross-encoder verification for semantic consistency**
-- 🚀 Achieved **3.6× precision improvement** over random sampling
+- Implemented **cross-encoder semantic validation**
+- 🚀 **3.6× precision improvement** in detecting mislabeled data
 
 ---
 
 ### 🔹 Sleep Behaviour Analysis for T2DM
-- Analyzed **AI-READI wearable sleep dataset**
-- Performed feature engineering (REM, variability, etc.)
-- Applied **ML models with cross-validation**
-- 📈 ROC-AUC ≈ 0.75 | F1 ≈ 0.84
-- Built interactive app using **Streamlit**
+- Analyzed **AI-READI wearable dataset**
+- Feature engineering: REM, variability, sleep patterns
+- ML models with **cross-validation**
+- 📊 ROC-AUC ≈ **0.75** | F1 ≈ **0.84**
+- Built **Streamlit app** for prediction & visualization
 
 ---
 
 ## 🏆 Achievements
-
-- 🏅 Flipkart Grid 7.0 – Qualified Round 2  
-- 🌍 GirlScript Summer of Code – Open Source Contributor  
-- ⚡ HackTU 6.0 – Led frontend & ideation  
+- 🏅 Flipkart Grid 7.0 – Round 2 Qualifier  
+- 🌍 GirlScript Summer of Code – Contributor  
+- ⚡ HackTU 6.0 – Frontend Lead  
 - 🧠 Helix Code Marathon – Final Round  
-- 🎓 Class 12 – 3rd Rank (School Level)
+- 🎓 3rd Rank in Class 12 (School)
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-**Machine Learning:** Regression, Classification, Random Forest, SVM, KNN, Clustering  
-**NLP & DL:** Embeddings, SentenceTransformers, Semantic Similarity  
-**Data Science:** Pandas, NumPy, Scikit-learn, EDA, Feature Engineering  
-**Languages:** Python, C, C++, SQL, HTML, CSS  
-**Tools:** Git, GitHub, VS Code, Streamlit  
+**Languages:**  
+`Python` `C++` `C` `SQL` `HTML` `CSS`
+
+**Machine Learning:**  
+`Regression` `Random Forest` `SVM` `KNN` `Clustering`
+
+**NLP & DL:**  
+`Embeddings` `SentenceTransformers` `Semantic Similarity`
+
+**Tools:**  
+`Git` `GitHub` `VS Code` `Streamlit`
 
 ---
 
-## 📊 Competitive Programming
-
-- 💻 LeetCode: (add your profile link here)
+## 📊 Coding Profiles
+- 💻 LeetCode: *(add your link here)*  
 
 ---
 
 ## 📫 Connect With Me
-
 - 📧 gargtushikabsr@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/tushika-garg  
 - 🌐 GitHub: https://github.com/Tushika2024  
@@ -71,5 +70,7 @@ I combine **data-driven problem solving** with **algorithmic thinking** to build
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tushika2024&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushika2024)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushika2024&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushika2024&layout=compact" />
+</p>
