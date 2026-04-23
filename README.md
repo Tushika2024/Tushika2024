@@ -57,7 +57,7 @@
 ---
 
 ## 📊 Coding Profiles
-- 💻 LeetCode: *(add your link here)*  
+- 💻 LeetCode: https://leetcode.com/u/Tushika_garg/
 
 ---
 
