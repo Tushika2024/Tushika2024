@@ -61,6 +61,7 @@
 `Embeddings` `SentenceTransformers` `Semantic Similarity`
 
 **Backend & Frameworks:** 
+
 `Flask` `REST APIs` `Streamlit` `Hugging Face`
 
 **Tools:**  
