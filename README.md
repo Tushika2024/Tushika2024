@@ -14,6 +14,14 @@
 
 ## 💼 Projects
 
+###🔹 CreditShield — AI Credit Risk & Limit Optimization
+- Built end-to-end credit underwriting pipeline on 30K+ customer records
+- Implemented Optuna-tuned XGBoost with reject inference and behavioral risk features
+- Designed explainable credit limit engine using SHAP and policy guardrails
+📊 ROC-AUC ≈ 0.82 | Streamlit-based decision dashboard for risk evaluation
+
+---
+
 ### 🔹 SentinelLabel — Semantic Label Noise Detection (NLP)
 - Built pipeline for **14K+ tweet dataset**
 - Used **SentenceTransformers + UMAP + HDBSCAN**
