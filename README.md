@@ -18,6 +18,7 @@
 - Built end-to-end credit underwriting pipeline on 30K+ customer records
 - Implemented Optuna-tuned XGBoost with reject inference and behavioral risk features
 - Designed explainable credit limit engine using SHAP and policy guardrails
+  
 📊 ROC-AUC ≈ 0.82 | Streamlit-based decision dashboard for risk evaluation
 
 ---
@@ -58,6 +59,9 @@
 
 **NLP & DL:**  
 `Embeddings` `SentenceTransformers` `Semantic Similarity`
+
+**Backend & Frameworks:** 
+`Flask` `REST APIs` `Streamlit` `Hugging Face`
 
 **Tools:**  
 `Git` `GitHub` `VS Code` `Streamlit`
