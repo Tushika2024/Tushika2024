@@ -6,9 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tushika2024&color=6C63FF&style=flat-square&label=Profile+Views" />
-  <a href="https://www.linkedin.com/in/tushika-garg-84a488318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Tushika_garg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:gargtushikabsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -37,6 +34,7 @@
   <img width="50" height="50" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
   <img width="50" height="50" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
 </p>
+
 ---
 
 ## 🧩 Projects
@@ -60,24 +58,23 @@
 ---
 
 ### 🔹 [Sleep Behavior Modeling for T2DM](https://github.com/Tushika2024)
+
 - 📊 Conducted EDA and statistical modeling on the **AI-READI wearable health dataset**, converting raw sensor data into structured, decision-ready features linked to T2DM risk
 - 📈 Achieved **ROC-AUC 0.75** and **F1-score 0.84** on T2DM risk classification
 - 📝 Manuscript on *Pattern Recognition in Wearable Sleep Data* currently under conference review
 
 `Python` `Scikit-learn` `Pandas` `NumPy`
-
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushika2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushika2024&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/tushika-garg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Tushika2024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Tushika_garg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:gargtushikabsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushika2024&theme=tokyonight&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 </p>
-
-<p align="center">
-  <img
