@@ -61,9 +61,7 @@
 
 - 📊 Conducted EDA and statistical modeling on the **AI-READI wearable health dataset**, converting raw sensor data into structured, decision-ready features linked to T2DM risk
 - 📈 Achieved **ROC-AUC 0.75** and **F1-score 0.84** on T2DM risk classification
-- 📝 Manuscript on *Pattern Recognition in Wearable Sleep Data* currently under conference review
-
-`Python` `Scikit-learn` `Pandas` `NumPy`
+`Python` `Scikit-learn` `Pandas` `NumPy` 
 ---
 
 ## 📫 Let's Connect
