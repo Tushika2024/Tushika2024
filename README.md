@@ -30,40 +30,29 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css&perline=8" />
 </p>
 
 **Machine Learning & Deep Learning**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optuna-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SHAP-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=numpy&logoColor=013243" />
 </p>
 
 **NLP & Transformers**
 <p align="left">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sentence--Transformers-00A79D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UMAP-00A79D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Text%20Classification-00A79D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Word%20Embeddings-00A79D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
 </p>
 
 **Backend, Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,git,github,vscode&perline=8" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode&perline=8" />
+  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 </p>
-
----
 
 ## 💼 Work Experience
 
