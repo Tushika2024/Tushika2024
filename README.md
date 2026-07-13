@@ -20,33 +20,23 @@
 ## 🚀 About Me
 
 - 🎓 B.E. Computer Science & Business Systems @ Thapar Institute of Engineering and Technology (CGPA: **9.92/10**)
-- 💼 Currently **Software Developer Intern** @ Kanha Milk Testing Equipments Pvt. Ltd.
 - 🤖 Passionate about **Machine Learning & NLP**
-- 🧠 Strong fundamentals in **Data Structures & Algorithms** — 250+ problems solved on LeetCode
+- 🧠 Strong fundamentals in **Data Structures & Algorithms** 
 - 📈 Love building **data-driven solutions with real-world impact**
 - ⚡ Fun fact: I enjoy turning messy, noisy data into models that actually make sense
 
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img height="50" src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,pytorch,tensorflow,fastapi,flask,git,github,vscode" />
-  <img height="50" src="https://img.shields.io/badge/-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img height="50" src="https://img.shields.io/badge/-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img height="50" src="https://img.shields.io/badge/-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/scikitlearn/F7931E" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/pandas/150458" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/numpy/013243" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+  <img width="50" height="50" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
 </p>
-
-## 💼 Work Experience
-
-### 🏢 Software Developer Intern — Kanha Milk Testing Equipments Pvt. Ltd.
-
-- 🗄️ Migrated **10,000+ Excel records** into MySQL via a Python ETL pipeline, resolving data format inconsistencies to ensure schema integrity and reduce query overhead
-- ⚙️ Developed a **FastAPI-based complaints portal** with automated analytics dashboards, giving stakeholders data-driven visibility into complaint trends
-
-`Python` `FastAPI` `MySQL` `ETL`
-
 ---
 
 ## 🧩 Projects
