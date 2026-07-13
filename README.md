@@ -30,24 +30,21 @@
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css&perline=6" />
 </p>
 
 **Machine Learning & Deep Learning**
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-2E7D32?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Optuna-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SHAP-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 **NLP & Transformers**
@@ -56,18 +53,14 @@
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentence--Transformers-00A79D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UMAP-00A79D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HDBSCAN-00A79D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Classification-00A79D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Word%20Embeddings-00A79D?style=for-the-badge" />
 </p>
 
 **Backend, Databases & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,git,github,vscode&perline=8" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
