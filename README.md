@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tushika2024&color=6C63FF&style=flat-square&label=Profile+Views" />
-  <a href="https://linkedin.com/in/tushika-garg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tushika-garg-84a488318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Tushika_garg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:gargtushikabsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -75,7 +75,6 @@
 ## 💼 Work Experience
 
 ### 🏢 Software Developer Intern — Kanha Milk Testing Equipments Pvt. Ltd.
-`Jun 2026 – Present` · Bulandshahr, UP
 
 - 🗄️ Migrated **10,000+ Excel records** into MySQL via a Python ETL pipeline, resolving data format inconsistencies to ensure schema integrity and reduce query overhead
 - ⚙️ Developed a **FastAPI-based complaints portal** with automated analytics dashboards, giving stakeholders data-driven visibility into complaint trends
@@ -87,8 +86,6 @@
 ## 🧩 Projects
 
 ### 🔹 [CreditShield — AI Credit Risk & Limit Optimization](https://github.com/Tushika2024)
-`Apr 2026 – Jun 2026`
-
 - ⚙️ Engineered a credit underwriting pipeline on **30K+ records** using Optuna-tuned XGBoost — **ROC-AUC 0.82**, reject inference, and 15+ behavioral risk features
 - 🔍 Designed a risk-segmented credit limit engine with **SHAP explainability** and configurable policy guardrails, delivering auditable, compliance-ready credit decisions
 - 🌐 Deployed as a live Streamlit application
@@ -98,8 +95,6 @@
 ---
 
 ### 🔹 [SentinelLabel — Semantic Label Noise Detection (NLP)](https://github.com/Tushika2024)
-`Feb 2026 – Apr 2026`
-
 - 🧬 Developed a semantic label auditing framework across a **14K+ NLP corpus**, flagging **268 mislabeled samples at 82% precision** — a **3.6× improvement** over random sampling
 - 📉 Applied UMAP dimensionality reduction and HDBSCAN clustering to surface structural data inconsistencies
 - 🧱 Built with modular, object-oriented design for testability and reuse
@@ -109,34 +104,11 @@
 ---
 
 ### 🔹 [Sleep Behavior Modeling for T2DM](https://github.com/Tushika2024)
-`Nov 2025 – Jan 2026`
-
 - 📊 Conducted EDA and statistical modeling on the **AI-READI wearable health dataset**, converting raw sensor data into structured, decision-ready features linked to T2DM risk
 - 📈 Achieved **ROC-AUC 0.75** and **F1-score 0.84** on T2DM risk classification
 - 📝 Manuscript on *Pattern Recognition in Wearable Sleep Data* currently under conference review
 
 `Python` `Scikit-learn` `Pandas` `NumPy`
-
----
-
-## 🏆 Achievements
-
-| 🏅 | Achievement |
-|---|---|
-| 🎓 | Merit I Scholarship — Rank 1 in Branch (First Year), Thapar Institute, 2024–25 |
-| 🚦 | Flipkart Gridlock 2.0 (2026) — Top 1000 of 10,600+ teams, ML-based urban traffic congestion challenge |
-| 🌍 | GirlScript Summer of Code (2025) — Open Source Contributor |
-| ⚡ | HackTU 6.0 (2025) — Led frontend development during a 24-hour rapid prototyping event |
-| 🏅 | Best Student of the Year — Renaissance School, 2022–2023 |
-| 💻 | Solved 250+ DSA problems on LeetCode |
-
----
-
-## 🎯 Leadership & Extra-Curricular
-
-- 🛠️ **Institution of Engineers (IEI)** — Technical Department Member
-- 🗣️ **Student Council** — Batch Representative, liaising between students and faculty
-- 💡 **Design Thinking (Course Project)** — Conducted empathy interviews with 20+ students in a 4-member team; defined problem statements around classroom engagement
 
 ---
 
