@@ -29,29 +29,13 @@
 ---
 
 ## 🛠 Tech Stack
-
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css&perline=8" />
-</p>
-
-**Machine Learning & Deep Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
-  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=numpy&logoColor=013243" />
-</p>
-
-**NLP & Transformers**
-<p align="left">
-  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-</p>
-
-**Backend, Databases & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode&perline=8" />
-  <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+<p align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,pytorch,tensorflow,fastapi,flask,git,github,vscode" />
+  <img height="50" src="https://img.shields.io/badge/-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img height="50" src="https://img.shields.io/badge/-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 ## 💼 Work Experience
